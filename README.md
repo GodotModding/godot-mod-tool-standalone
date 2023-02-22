@@ -1,0 +1,1 @@
+# godot-mod-tool-standalone
